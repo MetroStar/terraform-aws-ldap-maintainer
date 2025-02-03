@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2021.03.31
 
-**Commit Delta**: [Change from 0.0.5 release](https://github.com/plus3it/terraform-aws-ldap-maintainer/compare/0.0.5...0.0.6)
+**Commit Delta**: [Change from 0.0.5 release](https://github.com/MetroStar/terraform-aws-ldap-maintainer/compare/0.0.5...0.0.6)
 
 **Summary**:
 
